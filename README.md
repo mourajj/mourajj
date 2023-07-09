@@ -1,6 +1,6 @@
-## Welcome to my space
+## Welcome to my space =)
 
-I'm a Software Engineer, currently focused on Java (Spring) and Golang, however, there are many technologies that I already used and some of them I'm using in my daily basis:
+I'm a Software Engineer, currently focused on Java (Spring) and Golang, however, there are many technologies that I've used and some of them I'm using on a daily basis:
 
 Amazon Web Services | SQL | Docker | Kubernetes | ElasticSearch (Kibana) | Shell Script | RabbitMQ | RFC | SOAP | REST | CI/CD | Microservices | Big Data |
 
