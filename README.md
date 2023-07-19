@@ -19,6 +19,7 @@
 
 <p align="left">I'm a Software Engineer, currently focused on Java (Spring) and Golang, however, there are many technologies that I've used and some of them I'm using on a daily basis:<br><br>Go | Java | Amazon Web Services | SQL | Docker | Kubernetes | ElasticSearch (Kibana) | Shell Script | RabbitMQ | RFC | SOAP | REST | CI/CD | Big Data tools</p>
 
+https://mourajj.github.io/portfolio/
 ###
 
 <div align="left">
@@ -48,6 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
+
 
 ###
 
