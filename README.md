@@ -1,17 +1,5 @@
 <img align="left" height="130" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif"  />
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jotamoura/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UC3-zB7QD1jLj2Xas9laRUSA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-###
 
 <h1 align="left">I'm Jonathan, welcome to my space =)</h1>
 
